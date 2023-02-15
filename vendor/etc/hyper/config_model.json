@@ -1,0 +1,10 @@
+{
+  "Resources": [
+    {
+      "Name": "LPMBias",
+      "DefaultValue": "0",
+      "MaxValue" : "300",
+      "MinValue" : "0"
+    }
+  ]
+}
